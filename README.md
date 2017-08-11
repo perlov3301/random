@@ -1,1 +1,2 @@
-# random
+# random numbers generator
+jqm+sessionDB
