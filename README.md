@@ -1,2 +1,2 @@
 # random numbers generator
-jqm+sessionDB
+jqm user interface
